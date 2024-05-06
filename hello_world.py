@@ -3,7 +3,7 @@ print ("hello world")
 
 print("My second hello world")
 
-def profile-button():
+def profile_button():
     print("i will update user profile when clicked")
 
-profile-button()
+profile_button()
